@@ -1,4 +1,4 @@
-# itInvestClient
+# someClient
 ## Run
 ```shell
 npm i
